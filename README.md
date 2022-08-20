@@ -1,5 +1,5 @@
 - 👋 Olaar! Meu nome é Tamires, pode chamar de Tami!
-- 👀 Me interesso por testes automatizados.
+- 👀 Focada em testes automatizados.
 - 🌱 Tenho dedicado meu tempo aos testes automatizados com Ruby! 
 - 📫 Me procure no meu [LinkedIn](https://www.linkedin.com/in/tamires-manduca-80768513b)
 
